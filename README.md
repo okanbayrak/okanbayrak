@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okanbayrak
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning 2D Pixel Art and Game Design
+- 🌱 I’m currently learning Pixel Art and Game Design
 <!-- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me
 -->
